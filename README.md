@@ -2,7 +2,7 @@
 
 ![GitHub All Releases](https://img.shields.io/github/downloads/als-computing/bl1032/total.svg)
 ![GitHub stars](https://img.shields.io/github/stars/als-computing/bl1032.svg?style=social)
-![GitHub forks](https://img.shields.io/github/forks/als-computing/bl1032_prototype.svg?style=social)
+![GitHub forks](https://img.shields.io/github/forks/als-computing/bl1032.svg?style=social)
 
 ## Copyright Notice
 

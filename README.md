@@ -1,6 +1,10 @@
-# bl10_3_2
+# XRF-XFS-XAS-Auto Software
 
-** Copyright Notice ***
+![GitHub All Releases](https://img.shields.io/github/downloads/als-computing/bl1032/total.svg)
+![GitHub stars](https://img.shields.io/github/stars/als-computing/bl1032.svg?style=social)
+![GitHub forks](https://img.shields.io/github/forks/als-computing/bl1032_prototype.svg?style=social)
+
+## Copyright Notice
 
 XRF-XFS-XAS-Auto Copyright (c) 2024, The Regents of the University of
 California, through Lawrence Berkeley National Laboratory (subject to receipt
@@ -18,7 +22,7 @@ Software to reproduce, distribute copies to the public, prepare derivative
 works, and perform publicly and display publicly, and to permit others to do so.
 
 
-*** License Agreement ***
+## License Agreement
 
 XRF-XFS-XAS-Auto Copyright (c) 2024, The Regents of the University of
 California, through Lawrence Berkeley National Laboratory (subject to receipt

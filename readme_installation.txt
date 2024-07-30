@@ -12,7 +12,7 @@ Files to Package for Standalone
 ================================
 -XRF_XFS_XAS_AutoProcess.exe
 -MCRInstaller.exe 
- -This readme file 
+-This readme file 
 
 
 

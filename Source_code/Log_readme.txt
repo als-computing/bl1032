@@ -36,3 +36,8 @@ List of changes
 - 1st derivative: added .txt files (in addition to .xls files); and name of corresponding file got fixed
 - removed automatic deadtime correction of raw XRF maps. The software can only read maps that have been deadtime corrected at the beamline.
 ----------------
+09/17/2024
+- changed the filename of the autosaved average spectrum, so that > 10 spectra can be averaged and saved.
+- stackplot of the .dat files fixed
+- Fe database expanded
+----------------------------------
